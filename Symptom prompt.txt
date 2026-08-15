@@ -1,0 +1,13 @@
+Symptom prompt:
+
+I have headache and dizziness.
+I have chest pain and shortness of breath.
+I have fever, cough and breathing problem.
+I have skin rash and itching.
+I have toothache and gum pain.
+I have abdominal pain, nausea and vomiting.
+
+fever ,cough , shortness of breath
+fever ,sore throat,ear pain
+fever ,abdominal pain , vomiting 
+fever ,skin rash
