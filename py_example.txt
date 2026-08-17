@@ -1,0 +1,4 @@
+Bulk User Create: python3 bulk_create_users.py
+
+2/3 Doctor per specialist : python3 create_all_specialist_doctors.py --per-specialty 3
+Custom output file: python3 create_all_specialist_doctors.py --output demo_doctors.csv
