@@ -1,0 +1,13 @@
+Usage:
+wget https://github.com/partho202/CSE479_Project_Details/raw/refs/heads/main/project.zip
+# or just copy the script to your Kali box, then:
+
+sudo python3 deploy_mediconnect.py
+
+Useful flags:
+sudo python3 deploy_mediconnect.py --start-ai        # also launches ai_api.py in background
+sudo python3 deploy_mediconnect.py --skip-packages    # skip apt install if already done
+sudo python3 deploy_mediconnect.py --local-zip /home/kali/Downloads/project.zip   # skip download entirely
+sudo python3 deploy_mediconnect.py --local-dir /home/kali/Downloads/project        # already-extracted folder
+sudo python3 deploy_mediconnect.py --dest /var/www/html/mediconnect --branch main
+
