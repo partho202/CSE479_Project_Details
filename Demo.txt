@@ -1,0 +1,59 @@
+1. Neurology
+"I've been having a really bad headache for the last two days.
+It's mostly on one side of my head and gets worse with light.
+I also feel dizzy when I stand up quickly.
+Sometimes I feel a bit nauseous along with it."
+
+2. Cardiology
+"I've been feeling a tight pain in my chest since this morning.
+It gets worse when I climb stairs or walk fast.
+I also feel a bit short of breath even while sitting.
+My heartbeat feels irregular sometimes."
+
+3. General Medicine
+"I have had a fever for the past three days, around 101°F.
+Along with that I have a dry cough and sore throat.
+I feel weak and tired most of the day.
+My body also aches a little."
+
+4. Dermatology
+"I noticed a red, itchy rash on my arms and neck two days ago.
+It's spreading slowly and gets worse at night.
+The skin feels rough and slightly swollen in some spots.
+I haven't changed any soap or lotion recently."
+
+5. Dentistry
+"I have a sharp pain in my lower right tooth for the past few days.
+It hurts more when I eat something cold or sweet.
+My gum near that tooth looks a bit swollen and red.
+I also feel slight pain when I press on my jaw."
+
+6. Orthopedics
+"My left knee has been painful and swollen for about a week.
+It hurts more when I walk or climb stairs.
+There's some stiffness in the morning that takes time to go away.
+I didn't have any injury, it just started gradually."
+
+7. Pediatrics
+"My 5-year-old daughter has had a fever since yesterday evening.
+She isn't eating properly and seems more tired than usual.
+She's also been coughing a little at night.
+She complained once that her throat hurts."
+
+8. Ophthalmology
+"My eyes have been red and itchy for the past two days.
+My vision feels slightly blurry, especially in the evening.
+There's also some mild pain when I look at bright light.
+I feel like something is stuck in my eye sometimes."
+
+9. Psychiatry
+"I've been feeling very anxious and restless for the past few weeks.
+I'm having trouble sleeping and keep waking up at night.
+My mind feels constantly worried even about small things.
+I've also lost interest in things I usually enjoy."
+
+10. Emergency-flag demo
+"I suddenly have severe chest pain that won't go away.
+I'm finding it hard to breathe properly right now.
+There's a tingling sensation going down my left arm.
+I feel dizzy and like I might faint."
